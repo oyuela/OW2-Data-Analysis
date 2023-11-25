@@ -1,0 +1,301 @@
+match_id,name,backfill,role,characters,ultimates_used,eliminations,assists,deaths,damage,healing,mitigation,affiliation
+1,lucioos,Yes,Support,Zenyatta,1,3,5,3,1469,1483,0,Friendly
+1,Brodoe,No,Support,"Moira, Ana",3,7,5,7,3955,6626,107,Friendly
+1,Soff,No,Support,Kiriko,3,1,22,2,653,7230,0,Opponent
+1,TheBojangles,No,Support,Lucio,3,11,14,1,2413,6356,1542,Opponent
+1,Lilowo,No,Tank,"Reinhardt, Zarya",2,8,2,7,5534,0,5478,Friendly
+1,RealImpact,No,Tank,Doomfist,4,23,4,4,7918,0,5431,Opponent
+1,Sanity,No,Damage,"Reaper, Soldier: 76",1,9,1,8,5064,1024,0,Friendly
+1,Ozhiy,No,Damage,Junkrat ,2,13,3,7,6615,0,240,Friendly
+1,Annihilator,No,Damage,Soldier: 76,2,15,0,5,4534,934,0,Opponent
+1,PeteTheBest,No,Damage,"Bastion, Echo",3,21,4,5,6205,306,527,Opponent
+2,lucioos,No,Support,Kiriko,1,12,16,1,1692,7189,0,Friendly
+2,LemonViper,No,Support,Moira,1,20,7,2,4397,2684,0,Friendly
+2,Fwgt,No,Support,Moira,2,5,2,8,2736,4738,0,Opponent
+2,Rustimp,No,Support,"Illari, Mercy",2,0,4,5,136,4852,0,Opponent
+2,SageBison,No,Tank,Orisa,2,18,3,3,8411,0,5184,Friendly
+2,PinPeaches,No,Tank,Roadhog,2,4,1,5,3573,4061,979,Opponent
+2,YouLoseTY,No,Damage,Junkrat,2,17,4,1,6817,0,0,Friendly
+2,Peaches,No,Damage,Widowmaker,2,13,3,3,3253,0,0,Friendly
+2,Emudoodle,No,Damage,"Soldier:76, Junkrat, Pharah",0,5,0,8,4066,325,0,Opponent
+2,Wozi,No,Damage,"Ashe, Soldier:76",1,4,1,10,3539,275,0,Opponent
+3,lucioos,Yes,Support,Zenyatta,1,10,12,3,2356,2236,0,Friendly
+3,Hernan,No,Support,Lifeweaver,3,8,25,0,769,11819,551,Friendly
+3,Keiguru,No,Support,Kiriko,2,2,7,9,1280,6621,0,Opponent
+3,LoverArcade,No,Support,"Ana, Zenyatta",2,8,8,8,3376,5379,197,Opponent
+3,GlawUpriser,No,Tank,Orisa,2,24,4,4,7462,0,4830,Friendly
+3,PrixParade,No,Tank,"Doomfist, Zarya",3,14,3,7,9255,0,5992,Opponent
+3,RightNutt,No,Damage,Hanzo ,5,27,3,5,8518,0,0,Friendly
+3,GrayGNoll,No,Damage,"Tracer, Genji",3,18,0,5,5672,0,0,Friendly
+3,Slim,No,Damage,"Cassidy, Sojourn, Soldier: 76",2,12,4,10,5848,955,0,Opponent
+3,TheWatch4D,Yes,Damage,Torbjorn,0,1,0,5,2105,0,637,Opponent
+4,lucioos,No,Support,"Kiriko, Zenyatta",3,13,15,8,3081,9997,0,Friendly
+4,SleepyNinja,No,Support,"Baptiste, Ana",4,4,12,8,1898,11057,1050,Friendly
+4,MurlocLeader,No,Support,"Ana, Lifeweaver",4,5,23,2,1590,8973,799,Opponent
+4,Alextintor,No,Tank,"Roadhog, Winston, Zarya, Dva",3,17,2,9,8464,731,10249,Friendly
+4,PeakLily01,No,Tank,"Reinhardt, Sigma ",3,12,1,8,8344,0,10446,Opponent
+4,Agulnac47,No,Damage,"Genji, Sombra, Tracer",3,14,4,7,4067,72,155,Friendly
+4,GlamAttack,No,Damage,"Sojourn, Bastion",2,14,1,9,8337,283,746,Friendly
+4,Heiss,No,Damage,"Symmetra, Bastion, Reaper",5,28,8,8,10986,585,3742,Opponent
+4,Maeeved,No,Damage,Ashe,4,23,0,4,9287,0,0,Opponent
+5,lucioos,No,Support,"Illari, Ana",1,2,2,5,1870,2951,0,Friendly
+5,RulingMusic,No,Support,Lifeweaver,1,0,3,3,923,5542,155,Friendly
+5,Zakik3ro,No,Support,Illari,3,16,1,5,7173,5319,0,Opponent
+5,GoodstarGreg,No,Support,Illari,1,11,4,0,2712,5733,0,Opponent
+5,ColdShell,No,Support,Brigitte,1,7,9,0,1250,4022,697,Opponent
+5,CamelRider,No,Tank,Zarya,1,2,0,5,3253,662,3366,Friendly
+5,GuardianRay,No,Tank,Reinhardt,0,14,0,2,5144,0,7169,Opponent
+5,Kyranite,No,Damage,Hanzo,2,4,0,6,4464,0,0,Friendly
+5,Mudkip,Yes,Damage,Mei,0,1,0,1,963,27,100,Friendly
+5,Loknar,No,Damage,Torbjorn,1,8,0,1,3438,0,613,Opponent
+5,Shoju,No,Damage,Cassidy ,2,14,0,1,4705,0,67,Opponent
+6,lucioos,No,Support,Illari,1,6,4,0,2204,5073,0,Friendly
+6,SungJinWoo,No,Support,Kiriko,0,4,6,0,2434,4799,0,Friendly
+6,BanditoTV,No,Support,Illari,2,3,1,4,2842,4655,0,Opponent
+6,Sylthryn,No,Support,Ana,2,1,3,2,1906,5526,415,Opponent
+6,Kezra,Yes,Tank,Doomfist,1,0,1,1,2831,0,836,Friendly
+6,AngelOfDeath,No,Tank,Roadhog,3,3,2,2,4828,5047,970,Opponent
+6,SpeedyCome,No,Damage,Torbjorn,1,15,1,0,4750,0,0,Friendly
+6,Sqweeps,No,Damage,"Junkrat, Soldier: 76",2,9,1,1,2204,187,0,Friendly
+6,Canon,No,Damage,"Torbjorn, Pharah",0,3,0,5,2733,0,400,Opponent
+6,RawxPapers47,No,Damage,"Genji, Reaper, Soldier: 76",0,0,0,8,1667,131,408,Opponent
+7,lucioos,No,Support,Ana,1,4,7,3,1983,5162,29,Friendly
+7,Everest,No,Support,Baptiste ,3,2,6,4,1856,5518,386,Friendly
+7,InigoMontoya,No,Support,Mercy,1,0,15,4,60,5319,0,Opponent
+7,Jahslick,No,Support,Moira,2,15,4,4,5318,4727,0,Opponent
+7,Xzadik,No,Tank,Zarya,1,9,2,4,5797,0,3175,Friendly
+7,Taco,No,Tank,Doomfist,3,11,3,2,4337,0,2833,Opponent
+7,HanSolo,No,Damage,"Sojourn, Tracer",1,9,1,6,3580,0,0,Friendly
+7,SoundedComa,No,Damage,Ashe,1,11,0,5,5870,0,0,Friendly
+7,Atiliano,No,Damage,Symmetra ,1,12,0,4,4905,82,1911,Opponent
+7,DreamyBull,No,Damage,"Mei, Pharah, Sombra",2,9,5,5,3090,1429,469,Opponent
+8,lucioos,No,Support,"Ana, Zenyatta",1,12,13,9,3505,3248,318,Friendly
+8,Water,No,Support,Lucio,3,11,9,8,2351,6564,1809,Friendly
+8,Jahslick,No,Support,Moira,4,26,5,2,7045,5046,0,Opponent
+8,Synergy,No,Support,Brigitte,2,14,21,6,2622,6926,1062,Opponent
+8,Epso,No,Tank,Doomfist,3,8,1,7,5061,0,2276,Friendly
+8,Cynosure,No,Tank,Doomfist,5,22,5,7,5526,0,3732,Opponent
+8,BlueRage,No,Damage,"Ashe, Tracer",1,19,0,8,5513,0,0,Friendly
+8,FearEffect,No,Damage,"Reaper, Bastion, Symmetra",3,20,6,9,6827,58,2170,Friendly
+8,Ambom,No,Damage,"Genji, Cassidy, Tracer",3,12,0,8,4663,0,427,Opponent
+8,ISlaySpoons,No,Damage,"Widowmaker, Hanzo, Junkrat",2,19,6,6,5812,0,0,Opponent
+9,lucioos,No,Support,"Ana, Illari, Brigitte",3,2,2,6,2059,7085,1557,Friendly
+9,WitnessMe,No,Support,Lifeweaver,3,1,6,5,1219,9062,800,Friendly
+9,EdnaMode,No,Support,Lifeweaver,4,9,17,2,904,9102,136,Opponent
+9,Hofuo20,No,Support,Illari,3,14,5,3,5078,7655,0,Opponent
+9,Kumaru,No,Tank,"Roadhog, Ramattra",2,8,0,6,7985,1631,1470,Friendly
+9,CreamSoda250,Yes,Tank,Dva,3,21,6,1,9331,0,0,Opponent
+9,DomBurrito,No,Damage,Soldier: 76,1,7,0,9,5649,601,308,Friendly
+9,Obake,No,Damage,"Hanzo, Torbjorn",3,6,0,7,7528,0,498,Friendly
+9,Chrolo,No,Damage,Symmetra,4,19,7,5,8085,0,4693,Opponent
+9,TheGoodMan12,No,Damage,Soldier: 76,4,25,4,2,8446,765,0,Opponent
+10,lucioos,No,Support,"Lifeweaver, Ana",4,4,12,7,1495,8145,438,Friendly
+10,Squid,No,Support,Illari,4,6,3,4,4034,8170,0,Friendly
+10,Z67,Yes,Support,"Ana, Baptiste",2,3,5,3,2559,3716,384,Opponent
+10,RulingMusic,No,Support,Lifeweaver,3,3,14,2,1246,12737,983,Opponent
+10,Ed3Po,No,Tank,Wrecking Ball,5,9,2,2,8802,0,3879,Friendly
+10,Tatertot,No,Tank,Ramattra,3,14,2,6,9244,100,10767,Opponent
+10,ForGloryZoro,No,Damage,"Hanzo, Pharah, Soldier: 76",3,11,0,8,7891,600,0,Friendly
+10,Slurpin,No,Damage,Junkrat,4,13,3,7,7408,0,0,Friendly
+10,AndTheFalcon,No,Damage,Pharah,3,15,1,4,8066,0,51,Opponent
+10,Grunt (Korean),No,Damage,"Hanzo, Cassidy, Reaper",3,14,1,6,9208,520,0,Opponent
+11,Kenzo14,No,Support,Ana,3,12,20,5,3744,8848,557,Friendly
+11,lucioos,No,Support,Illari,5,14,6,5,4330,12845,0,Friendly
+11,Squid,No,Support,Illari,5,13,8,6,4526,10387,0,Opponent
+11,Capnbuhbo,No,Support,Mercy,3,4,13,5,888,9953,0,Opponent
+11,Bajango,No,Tank,Reinhardt,3,19,3,6,10070,0,19421,Friendly
+11,Kig9445,No,Tank,Ramattra,3,12,2,11,10016,0,5845,Opponent
+11,MadeMow,No,Damage,Reaper,3,15,1,8,8357,1477,0,Friendly
+11,Solev95,No,Damage,Ashe,4,20,2,8,10687,0,0,Friendly
+11,Malvos,No,Damage,Ashe,4,18,2,8,9696,0,0,Opponent
+11,CakeKxtx,No,Damage,Torbjorn,3,13,1,8,7839,0,1147,Opponent
+12,BDKingGaming,Yes,Support,Moira,1,7,5,11,1885,1731,0,Friendly
+12,lucioos,No,Support,"Kiriko, Zenyatta, Brigitte",3,18,16,10,5365,9427,219,Friendly
+12,Slab,No,Support,Moira,3,34,33,4,5175,8695,0,Opponent
+12,NastyAssHo,No,Support,"Mercy, Kiriko",3,12,32,3,1995,8050,0,Opponent
+12,MetroVisionz,No,Tank,"Ramattra, Reinhardt",2,12,0,9,7256,0,8844,Friendly
+12,GodlyGriffin,Yes,Tank,Doomfist,3,30,5,9,8493,0,5158,Opponent
+12,SkullFace,No,Damage,"Reaper, Junkrat",1,13,2,16,4629,264,0,Friendly
+12,Xeaxon,No,Damage,"Echo, Soldier: 76, Tracer, Cassidy",4,17,0,11,8673,558,4,Friendly
+12,LilScotty,No,Damage,"Cassidy, Soldier: 76",4,35,1,6,9802,177,371,Opponent
+12,AceTylus,No,Damage,Genji,4,30,0,9,8809,0,1921,Opponent
+13,AcppVlogs123,No,Support,"Baptiste, Zenyatta",2,18,9,6,4880,3649,205,Friendly
+13,PandaTot,No,Support,Mercy,4,6,16,1,910,10673,0,Friendly
+13,BippySpace,No,Support,Ana,3,5,9,5,1520,7631,588,Opponent
+13,Nitro260,No,Support,"Brigitte, Mercy",2,3,8,3,1234,6969,2284,Opponent
+13,WarMasterOku,No,Tank,Sigma,3,15,5,1,6841,0,21744,Friendly
+13,Orion,No,Tank,"Reinhardt, Orisa",2,4,1,9,6218,0,10614,Opponent
+13,Blight,No,Damage,"Sojourn, Junkrat",3,17,3,7,7317,0,0,Friendly
+13,lucioos,No,Damage,Echo,3,17,0,5,6212,69,561,Friendly
+13,GivnTheBerch,No,Damage,Hanzo,2,10,2,5,5148,0,0,Opponent
+13,KrazyKat,No,Damage,Bastion,3,11,0,6,10322,549,1441,Opponent
+14,KnyghtLake,No,Support,Ana,5,10,12,7,5121,8529,1410,Friendly
+14,lucioos,No,Support,"Zenyatta, Kiriko, Zenyatta",4,14,15,9,5585,8522,0,Friendly
+14,Darwin,No,Support,Lifeweaver,4,21,26,2,2239,12811,662,Opponent
+14,UnknownP3,No,Support,"Brigitte, Ana",4,22,30,5,3450,10923,4911,Opponent
+14,DiffrentBird,No,Tank,"Zarya, Orisa",2,11,5,10,7492,0,7327,Friendly
+14,Hexxlyn,No,Tank,Wrecking Ball,2,24,0,6,5960,0,2092,Opponent
+14,Lazert,No,Damage,Echo,3,15,0,10,10829,117,1106,Friendly
+14,SpookyChriis,No,Damage,"Reaper, Junkrat",4,21,0,9,13445,850,0,Friendly
+14,Psychedelic,No,Damage,"Widowmaker, Symmetra, Junkrat, Soldier: 76",3,26,6,9,8794,848,2033,Opponent
+14,Fish,No,Damage,Bastion,4,33,6,5,11972,285,1332,Opponent
+15,lucioos,No,Tank,Orisa,2,14,5,4,6693,0,4751,Friendly
+15,LeedleLee,No,Damage,Cassidy,2,19,0,3,5960,0,103,Friendly
+15,LTGunman,No,Damage,Ashe,2,11,0,1,4780,0,0,Friendly
+15,Benimaru,No,Support,"Illari, Lucio",2,11,11,3,3087,4465,210,Friendly
+15,Zomj12,No,Support,"Ana, Illari ",2,11,11,1,2556,5688,496,Friendly
+15,Ocutxbmv,No,Tank,"Reinhardt, Ramattra, Orisa",2,6,2,10,3844,0,10360,Opponent
+15,BarnabyJones,No,Damage,"Ashe, Reaper",1,4,0,4,3120,141,0,Opponent
+15,Drill,Yes,Damage,"Tracer, Torbjorn",1,3,0,2,2498,0,187,Opponent
+15,Selchie,No,Support,"Illari, Mercy",2,1,4,3,1390,6010,0,Opponent
+15,Naga,No,Support,Ana,2,6,6,3,1802,6801,1314,Opponent
+16,StupidClown,No,Tank,"Orisa, Winston",1,2,0,6,2383,0,4131,Friendly
+16,lucioos,No,Damage,"Echo, Mei",1,1,0,7,2323,637,1297,Friendly
+16,Mighty,No,Damage,"Ashe, Soldier: 76, Widowmaker",1,4,0,7,1987,204,0,Friendly
+16,HulkSmash,No,Support,"Illari, Kiriko",1,1,1,7,775,2758,0,Friendly
+16,NightKnight,No,Support,"Zenyatta, Moira",1,5,1,7,2996,2292,0,Friendly
+16,BigBlackDogs,No,Damage,Sojourn,1,23,4,2,5107,0,0,Opponent
+16,FireBalBlitz,No,Tank,Doomfist,3,27,7,1,5591,0,3266,Opponent
+16,PlagueDoctor,No,Support,Ana,2,11,16,1,1075,4077,140,Opponent
+16,AndyIsMad,No,Damage,Widowmaker,1,10,0,2,2215,0,0,Opponent
+16,Rynetime,No,Support,Zenyatta,1,10,25,1,1770,2439,0,Opponent
+17,lucioos,No,Tank,"Orisa, Winston",3,32,4,5,8230,0,18414,Friendly
+17,Lblair,No,Damage,"Junkrat, Hanzo",5,33,11,8,14029,0,0,Friendly
+17,SwankyOrc,No,Damage,"Soldier: 76, Symmetra, Pharah",3,32,8,10,11219,1044,1830,Friendly
+17,Twiddly,No,Support,"Zenyatta, Brigitte",3,16,23,4,5351,9477,2159,Friendly
+17,Wet,No,Support,"Ana, Illari",5,17,19,7,4624,13002,732,Friendly
+17,IMGIXBTW,No,Damage,"Genji, Symmetra",3,16,0,13,2832,136,5011,Opponent
+17,HelloIntrnet,No,Support,"Ana, Lucio",2,10,13,16,2907,7649,413,Opponent
+17,Rize,No,Damage,"Bastion, Soldier: 76",3,17,2,9,9903,443,727,Opponent
+17,Green,No,Tank,"Orisa, Junkerqueen",4,23,5,8,10627,732,6860,Opponent
+17,Alunalu,No,Support,Kiriko,4,7,19,9,2688,13704,0,Opponent
+18,lucioos,No,Tank,"Ramattra, Dva, Winston",3,12,3,6,6941,15,6884,Friendly
+18,GignerdLight,No,Damage,"Cassidy, Symmetra",2,8,5,12,6786,6,135,Friendly
+18,Will,No,Damage,"Tracer, Soldier: 76",2,9,0,10,9372,123,0,Friendly
+18,CBF,No,Support,"Brigitte, Ana, Baptitse",2,7,5,10,3473,5447,1594,Friendly
+18,LaveUgle,Yes,Support,Illari,2,3,3,2,1222,1382,0,Friendly
+18,Pericov,No,Tank,Doomfist,3,27,9,3,8785,0,4674,Opponent
+18,Milk,No,Damage,"Junkrat, Sombra",4,22,5,3,7140,1186,0,Opponent
+18,Peach,No,Damage,"Genji, Pharah, Soldier: 76",3,29,1,8,9864,82,142,Opponent
+18,JujuBuju,No,Support,Mercy,4,1,24,4,557,7783,0,Opponent
+18,Bxld,No,Support,Lifeweaver,2,6,19,1,1278,8965,368,Opponent
+19,lucioos,No,Tank,"Junkerqueen, Winston",3,16,6,5,6655,756,10361,Friendly
+19,Lysar2,No,Damage,Junkrat,3,11,1,7,8597,0,0,Friendly
+19,Seabear,No,Damage,Widowmaker,1,14,2,6,5105,0,0,Friendly
+19,Murph,No,Support,Mercy,4,0,14,4,80,8713,0,Friendly
+19,Xmrpurplex,No,Support,Ana,3,6,11,4,1774,6710,530,Friendly
+19,Chector21,No,Damage,"Genji, Echo",2,10,0,9,4555,0,2493,Opponent
+19,Suffragette,No,Damage,Soldier: 76,3,19,1,2,9067,1477,0,Opponent
+19,Chexlemeneux,No,Support,Zenyatta,2,7,16,4,4322,5215,0,Opponent
+19,Hydro,No,Support,Ana,2,10,10,7,2431,4880,232,Opponent
+19,Pedrot60450,No,Tank,Doomfist,3,9,3,4,4457,0,4602,Opponent
+20,BrokenRecord,No,Tank,"Wrecking Ball, Junkerqueen, Ramattra",2,2,0,5,3292,108,1784,Friendly
+20,AwkwardBandi,No,Damage,Junkrat,1,5,0,7,3848,0,0,Friendly
+20,Marrigold,No,Damage,"Sombra, Mei",1,8,0,5,2964,847,814,Friendly
+20,Alicelee,No,Support,"Kiriko, Ana",0,2,1,7,679,1406,0,Friendly
+20,lucioos,Yes,Support,Brigitte,0,2,0,2,783,1642,380,Friendly
+20,Lelxd,No,Support,Moira,1,12,8,2,1734,2821,0,Opponent
+20,Jiggly,No,Support,Ana,2,13,13,0,2390,5109,526,Opponent
+20,TicoFactory,No,Tank,Winston,2,14,2,1,5130,0,3103,Opponent
+20,Droyd406,No,Damage,Genji,1,9,0,4,3422,0,0,Opponent
+20,Maplesyrup,No,Damage,Widowmaker,2,8,2,6,3377,0,0,Opponent
+21,lucioos,No,Tank,"Orisa, Zarya, Junkerqueen, Winston",4,19,8,9,10481,593,7779,Friendly
+21,CasualNerd,No,Damage,"Junkrat, Sojourn, Symmetra",4,28,5,12,9606,98,1872,Friendly
+21,CubedCake,No,Damage,"Echo, Mei, Reaper",3,29,2,5,10255,1712,1457,Friendly
+21,Bawb,No,Support,"Ana, Moira",4,23,18,7,6269,8734,568,Friendly
+21,Kaylotl,No,Support,Kiriko,3,11,31,6,1962,14835,0,Friendly
+21,Tauski,Yes,Damage,"Soldier:76, Pharah",2,10,1,5,4394,524,0,Opponent
+21,Trinity,No,Tank,Reinhardt,4,22,2,9,9107,0,33234,Opponent
+21,CamoDylan,No,Damage,Genji,3,18,0,11,6597,0,1250,Opponent
+21,Brex56,No,Support,Kiriko,4,16,19,9,4627,11780,0,Opponent
+21,KittyGrl,No,Support,Baptiste,5,16,15,6,8976,12287,1767,Opponent
+22,lucioos,No,Tank,"Ramattra, Winston",2,12,1,4,4831,212,9167,Friendly
+22,Astro,No,Damage,"Cassidy, Hanzo",1,11,1,5,3982,0,96,Friendly
+22,DanM,No,Damage,"Pharah, Soldier: 76",3,18,3,7,6910,569,0,Friendly
+22,Buzzahhh,No,Support,Illari,5,20,3,4,8110,6772,0,Friendly
+22,Mujitsu,No,Support,Mercy,3,0,22,5,0,7625,0,Friendly
+22,Mel,No,Tank,Orisa,3,17,3,5,10260,0,6110,Opponent
+22,Degausser,No,Damage,Soldier: 76,2,6,0,10,4666,367,40,Opponent
+22,XtremeRed,No,Support,Ana,2,8,16,5,1590,7886,388,Opponent
+22,CamoDylan,No,Damage,Pharah,2,13,0,8,4764,0,0,Opponent
+22,Brex56,No,Support,Kiriko,3,10,7,5,2554,5330,0,Opponent
+23,SnivyFC,Yes,Tank,Winston,0,2,0,1,816,0,1132,Friendly
+23,lucioos,Yes,Damage,Echo,1,3,0,3,2808,0,35,Friendly
+23,McSpankyWank,No,Damage,Sombra,1,9,1,3,4817,1058,275,Friendly
+23,MockBowl,No,Support,Lifeweaver,1,4,4,4,994,5414,0,Friendly
+23,SewerBuggg,Yes,Support,Illari,1,2,0,2,1339,2656,0,Friendly
+23,ImaSitOnYou,No,Damage,"Genji, Reaper, Symmetra",2,13,1,4,4351,411,161,Opponent
+23,AkudaKatsu,No,Damage,Junkrat,1,12,1,2,5012,0,0,Opponent
+23,Three11,No,Support,Zenyatta,2,7,8,5,3391,4668,0,Opponent
+23,Morbius,No,Tank,"Reinhardt, Doomfist",3,10,0,1,5725,0,4037,Opponent
+23,Kremit,No,Support,Moira,2,10,8,2,3077,6677,0,Opponent
+24,VictoryIsMyn,No,Tank,"Doomfist, Zarya, Winston",1,7,0,8,5337,0,3653,Friendly
+24,JessePinkMan,No,Damage,"Cassidy, Mei, Symmetra, Bastion",3,6,2,7,5599,219,1379,Friendly
+24,Lucioos,No,Damage,"Soldier: 76, Ashe",2,8,0,6,6523,1203,0,Friendly
+24,Ariakis,No,Support,Illari,1,2,3,6,2249,3776,297,Friendly
+24,Skatebirds,No,Support,Kiriko,2,2,7,9,1951,3257,0,Friendly
+24,Calavera,No,Damage,Pharah,2,14,4,4,4816,0,0,Opponent
+24,Shasta,No,Support,Mercy,3,4,24,2,260,9099,0,Opponent
+24,VerminSuplex,No,Support,Ana,4,18,18,0,2970,7343,839,Opponent
+24,ThePhantomQ,No,Damage,Cassidy,1,17,0,3,4441,0,280,Opponent
+24,Shivine,No,Tank,"Dva, Reinhardt",2,21,7,3,6816,0,3399,Opponent
+25,JustMonika,Yes,Tank,"Winston, Dva",2,7,1,6,5231,0,8162,Friendly
+25,lucioos,No,Damage,"Echo, Mei",2,11,4,6,4341,415,2597,Friendly
+25,ThePhantomQ,No,Damage,Hanzo,3,8,2,5,4013,0,0,Friendly
+25,Krabay,No,Support,"Lifeweaver, Zenyatta, Ana",3,6,6,6,2507,6520,266,Friendly
+25,Puppeaches,No,Support,"Illari, Moira",3,7,8,5,4359,7921,0,Friendly
+25,Gerr,No,Tank,Doomfist,4,16,3,3,6957,0,2577,Opponent
+25,JessePinkMan,No,Damage,"Ashe, Bastion, Reaper",3,15,0,6,7640,508,375,Opponent
+25,LeoThe5th,No,Support,Moira,3,21,11,4,5405,6391,0,Opponent
+25,Calavera,No,Damage,Junkrat,3,15,2,2,5993,0,0,Opponent
+25,Wipipi,No,Support,Ana,2,5,11,2,1951,7733,207,Opponent
+26,Lasagna,Yes,Tank,Wreckingball,0,0,0,1,165,0,0,Friendly
+26,lucioos,Yes,Damage,Reaper,0,2,0,7,1450,214,0,Friendly
+26,WarSoft,Yes,Damage,Ashe,1,3,1,5,2334,0,0,Friendly
+26,Maverick,Yes,Support,Ana,0,1,1,2,695,765,0,Friendly
+26,Yanisaur,Yes,Support,Baptiste,0,1,1,2,204,635,0,Friendly
+26,NPTrain,No,Support,Lucio,1,13,7,2,1969,2826,484,Opponent
+26,zzSirSlumpzz,No,Damage,Ashe,1,9,0,2,3172,0,0,Opponent
+26,Zeclute,No,Damage,Hanzo,2,21,2,1,5800,0,0,Opponent
+26,CT5555,No,Support,Illari,2,13,5,2,1655,5526,0,Opponent
+26,MrMeme,No,Tank,"Dva, Orisa",2,12,4,2,4285,0,3209,Opponent
+27,ImNotCorey,No,Tank,Doomfist,4,22,8,6,6781,0,2882,Friendly
+27,Guts,No,Damage,"Genji, Hanzo",4,28,5,2,8584,0,210,Friendly
+27,lucioos,No,Damage,"Bastion, Torbjorn, Soldier: 76",2,21,3,4,8215,316,208,Friendly
+27,Alexxdria,No,Support,Mercy,3,3,20,2,655,5697,0,Friendly
+27,MsCrazyPants,No,Support,Kiriko,1,10,15,4,3113,4666,0,Friendly
+27,Madnessos,No,Tank,"Winston, Roadhog",2,10,3,6,4190,2838,3610,Opponent
+27,Slam,No,Damage,"Sombra, Torbjorn",2,13,1,8,6120,50,607,Opponent
+27,Epicitten,No,Support,"Zenyatta, Lucio",2,5,6,9,1781,4096,259,Opponent
+27,Athenaaa,No,Support,"Kiriko, Moira, Mercy",2,4,8,8,1669,7268,0,Opponent
+27,Anklecream,No,Damage,Tracer,2,11,1,9,5724,103,0,Opponent
+28,Waphles,No,Tank,Junkerqueen,3,25,6,9,10721,2504,1966,Friendly
+28,Fireball0118,No,Damage,"Cassidy, Tracer",3,14,0,10,7105,0,3,Friendly
+28,Lucioos,No,Damage,"Ashe, Mei, Symmetra, Reaper",3,16,3,9,6211,917,6083,Friendly
+28,MasterJake08,No,Support,Moira,3,21,10,9,5482,6531,0,Friendly
+28,SoccerDude,No,Support,"Lifeweaver, Kiriko",2,4,11,9,1749,6615,192,Friendly
+28,FreddyKruege,No,Support,"Mercy, Moira",3,17,23,8,1927,10310,0,Opponent
+28,Cysoez,No,Damage,Cassidy,2,14,0,8,7395,0,185,Opponent
+28,WarLordIce,Yes,Support,Brigitte,2,21,17,8,3909,5988,1010,Opponent
+28,LordK8e,No,Tank,"Doomfist, Dva",5,35,13,3,12001,0,3283,Opponent
+28,Cysoshealer,No,Damage,"Ashe, Soldier: 76",3,16,4,11,6417,1081,0,Opponent
+29,AssessedHat,No,Tank,Ramattra,2,21,5,2,5230,0,2534,Friendly
+29,Lucioos,No,Damage,Bastion,2,20,1,1,4944,16,256,Friendly
+29,SquatChra,No,Damage,Mei,1,17,11,1,2251,470,2933,Friendly
+29,MoonYay,No,Support,Illari,2,11,11,2,2279,5325,0,Friendly
+29,Skoll,no,Support,Ana,1,13,13,2,1588,3477,138,Friendly
+29,Ghost,No,Support,Moira,2,6,2,4,2747,3842,0,Opponent
+29,Fae444,No,Damage,Symmetra,1,1,0,6,2314,0,514,Opponent
+29,FierAssassin,No,Tank,Doomfist,2,5,1,7,3461,0,3452,Opponent
+29,Br4dyWolf,No,Damage,Widowmaker,1,3,0,3,3391,547,0,Opponent
+29,CheeseJesus,No,Support,Zenyatta,1,3,4,7,2555,2441,0,Opponent
+30,Anan,No,Tank,"Sigma, Reinhardt",2,14,4,4,5010,0,14156,Friendly
+30,Axcor,No,Damage,Torbjorn,3,29,0,5,11191,0,1032,Friendly
+30,lucioos,No,Damage,"Bastion, Symmetra",3,31,7,5,7633,167,948,Friendly
+30,Centric,No,Support,Zenyatta,3,10,24,6,3363,7532,0,Friendly
+30,Shelbo,No,Support,Mercy,3,6,22,3,579,8556,0,Friendly
+30,Zigalith,No,Damage,"Widowmaker, Tracer, Echo",3,8,0,9,5026,95,0,Opponent
+30,Palmistry,No,Support,"Baptiste, Moira",2,5,11,8,2828,7359,48,Opponent
+30,Kirito,No,Tank,"Winston, Dva, Ramattra",3,16,5,7,6887,0,12880,Opponent
+30,ShadowMelody,No,Damage,"Genji, Junkrat, Hanzo, Bastion",3,7,1,10,7425,31,733,Opponent
+30,StrawHat,No,Support,Illari,3,11,2,7,3838,6808,0,Opponent
